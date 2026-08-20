@@ -1,1 +1,0 @@
-Coloque suas imagens JPG/PNG nesta pasta. O index.html já possui exemplos projeto-1.jpg, projeto-2.jpg e projeto-3.jpg.
